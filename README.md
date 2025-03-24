@@ -5,7 +5,7 @@
 Este é um pipeline Nextflow para análise de dados de transcriptoma.
 
 
-meu_projeto/
+ProjetoNextflowCurso2025/
 ├── main.nf
 ├── nextflow.config
 ├── modules/
