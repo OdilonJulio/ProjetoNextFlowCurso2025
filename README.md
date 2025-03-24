@@ -12,4 +12,4 @@ single_cell_transcriptome/
 │   ├── pca_analysis.nf     # Processo 1: PCA  
 │   └── reconstruct.nf      # Processo 2: Reconstrução  
 └── assets/  
-    └── single_cell_transcriptogram_R30.rds  # Seu dataset  
+    └── single_cell_transcriptogram_R30.rds #Dataset
