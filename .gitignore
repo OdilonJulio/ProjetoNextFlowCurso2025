@@ -1,0 +1,12 @@
+# Nextflow
+.nextflow*
+work/
+results/
+*.html
+*.dot
+*.trace
+
+# R
+.Rhistory
+.RData
+.Rproj.user
