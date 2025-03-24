@@ -5,11 +5,11 @@
 Este é um pipeline Nextflow para análise de dados de transcriptoma.
 
 
-single_cell_transcriptome/  
-├── main.nf                 # Fluxo principal  
-├── nextflow.config         # Configurações  
-├── modules/  
-│   ├── pca_analysis.nf     # Processo 1: PCA  
-│   └── reconstruct.nf      # Processo 2: Reconstrução  
-└── assets/  
-    └── single_cell_transcriptogram_R30.rds #Dataset
+meu_projeto/
+├── main.nf
+├── nextflow.config
+├── modules/
+│   ├── pca_analysis.nf
+│   └── plot_pcs.nf
+└── assets/
+    └── single_cell_transcriptogram_R30.rds
